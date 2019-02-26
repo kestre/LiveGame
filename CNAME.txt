@@ -1,1 +1,1 @@
-game.barcher.cn
+live.barcher.cn
